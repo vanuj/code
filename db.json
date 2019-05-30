@@ -1,10 +1,8 @@
 {
-  "productList" : [
-    {"pid":12, "name":"pname1","price":123,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5]},
+  "productList" : [{"pid":12, "name":"pname1","price":123,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5]},
     {"pid":13, "name":"pname2","price":12,"currency":"INR", "stockAvailable":false, "features":[1,2,3,4,5]},
     {"pid":14, "name":"pname3","price":1,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5]},
-    {"pid":15, "name":"pname4","price":4,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5]}
-  ],
+    {"pid":15, "name":"pname4","price":4,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5]}],
   "loginInfo" : {
     "name": "Anuj",
     "address": "Delhi"
