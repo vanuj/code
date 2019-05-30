@@ -3,7 +3,7 @@
     {"pid":12, "name":"pname1","price":123,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5], "imgSrc":"1.jpg"},
     {"pid":13, "name":"pname2","price":12,"currency":"INR", "stockAvailable":false, "features":[1,2,3,4,5], "imgSrc":"2.jpg"},
     {"pid":14, "name":"pname3","price":1,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5], "imgSrc":"3.jpg"},
-    {"pid":15, "name":"pname4","price":4,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5], "imgSrc":"4.jpg"},
+    {"pid":15, "name":"pname4","price":4,"currency":"INR", "stockAvailable":true, "features":[1,2,3,4,5], "imgSrc":"4.jpg"}
   ],
   "loginInfo" : {
     "name": "Anuj",
